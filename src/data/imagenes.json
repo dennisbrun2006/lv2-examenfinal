@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "titulo": "Atardecer en la playa",
+    "categoria": "Paisajes",
+    "url": "https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg"
+  },
+  {
+    "id": 2,
+    "titulo": "Bosque nevado",
+    "categoria": "Paisajes",
+    "url": "https://images.pexels.com/photos/235621/pexels-photo-235621.jpeg"
+  },
+  {
+    "id": 3,
+    "titulo": "Ciudad de noche",
+    "categoria": "Ciudades",
+    "url": "https://images.pexels.com/photos/316093/pexels-photo-316093.jpeg"
+  },
+  {
+    "id": 4,
+    "titulo": "Calle antigua",
+    "categoria": "Ciudades",
+    "url": "https://images.pexels.com/photos/672532/pexels-photo-672532.jpeg"
+  },
+  {
+    "id": 5,
+    "titulo": "Retrato en estudio",
+    "categoria": "Personas",
+    "url": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg"
+  },
+  {
+    "id": 6,
+    "titulo": "Sonrisa espontanea",
+    "categoria": "Personas",
+    "url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+  },
+  {
+    "id": 7,
+    "titulo": "Tigre en la selva",
+    "categoria": "Animales",
+    "url": "https://images.pexels.com/photos/145939/pexels-photo-145939.jpeg"
+  },
+  {
+    "id": 8,
+    "titulo": "Pajaro en rama",
+    "categoria": "Animales",
+    "url": "https://images.pexels.com/photos/45853/bird-blue-cristata-cyanocitta-45853.jpeg"
+  }
+]

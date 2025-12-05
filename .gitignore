@@ -1,0 +1,15 @@
+# Carpetas de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Node / Vite
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema
+Thumbs.db
+.DS_Store
