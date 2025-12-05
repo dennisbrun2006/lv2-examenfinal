@@ -1,7 +1,7 @@
 # 📸 Galeria de Imagenes  
 Proyecto realizado para la materia **Lenguajes Visuales II**, cumpliendo con el Tema 6: *Galería de Imágenes*.
-👨‍💻 Autor
-Dennis Brunaga
+##👨‍💻 Autor
+#Dennis Brunaga
 Proyecto académico para la materia Lenguajes Visuales II.
 
 
