@@ -94,6 +94,6 @@ JavaScript (ES6+)
 
 HTML5 / CSS3
 
-👨‍💻 Autor
-Dennis Brunaga
-Proyecto académico para la materia Lenguajes Visuales II.
+#👨‍💻 Autor
+#Dennis Brunaga
+#Proyecto académico para la materia Lenguajes Visuales II.
